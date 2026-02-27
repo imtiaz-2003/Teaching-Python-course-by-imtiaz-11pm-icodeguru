@@ -1,7 +1,9 @@
 # Teaching-Python-course-by-imtiaz-11pm-icodeguru
 
 all lectures, slides, and code files [drive Link] (https://drive.google.com/drive/folders/1iio_5Fl07_3uk7SHenUvzVMxM1cVD9KJ?usp=sharing)
-<img width="1340" height="647" alt="image" src="https://github.com/user-attachments/assets/dfd527d1-38e8-4ccd-a211-314f5a73637b" />
+
+<img width="1346" height="494" alt="image" src="https://github.com/user-attachments/assets/49600eab-d29a-4c1a-8e04-fb4ca09f3b99" />
+
 
 
 # 🐍 Python for AI, Data Science & Machine Learning  
