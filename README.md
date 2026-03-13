@@ -6,7 +6,7 @@ all lectures, slides, and code files [drive Link] (https://drive.google.com/driv
 
 
 
-# 🐍 Python for AI, Data Science & Machine Learning  
+# 🐍 Python for AI, Data Science & Machine Learning 
 ### Complete Beginner-to-Intermediate Course Roadmap
 
 Welcome to this hands-on course designed to take you from **Python basics** to **AI-powered applications**. This repository contains structured lectures, examples, and practical learning resources.
